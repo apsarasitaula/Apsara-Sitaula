@@ -8,7 +8,7 @@
 <h1 align="left"> <picture><img src="https://miro.medium.com/v2/1*qdAW1TjCN57h1lbuuzvchg.gif" width="80"/>
 </picture> About me</h1>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif?raw=true" width = 450px></picture>
 
 <br><br>
 
