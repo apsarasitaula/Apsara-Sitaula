@@ -30,15 +30,39 @@ Hi there, I'm Apsara Sitaula 👋
 </div>
 
 
+
 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=apsarasitaula&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 
+---
 💡 Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
-📫 Connect With Me
+
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apsara-sitaula-62441528b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apsarasitaula)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://apsarasitaula.github.io)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
+  
+  ### ✨ Thanks for visiting my profile! ✨
+  
+  ![Made with Love](https://img.shields.io/badge/Made%20with-Love%20%E2%9D%A4%EF%B8%8F-ff69b4?style=for-the-badge)
+  
+</div>
